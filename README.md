@@ -1,2 +1,2 @@
 # hello-world
-just another repo
+Checking out github. My first repo.
